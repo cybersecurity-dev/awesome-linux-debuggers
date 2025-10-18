@@ -14,3 +14,6 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+
+### [GNU Debug](https://github.com/cybersecurity-dev/awesome-gdb)ger
+[GDB](https://en.wikipedia.org/wiki/GNU_Debugger), the GNU Project debugger, allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment it crashed.
